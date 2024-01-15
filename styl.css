@@ -1,0 +1,62 @@
+
+body {
+    background-image: url("background-img.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+}
+
+header{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    -webkit-text-stroke: 1px #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    padding-top: 75px;
+    color: white;
+    text-align: center;
+    
+}
+
+h2 {
+    color: transparent;
+    
+}
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+
+a {
+    color:rgb(203, 19, 220)
+}
+
+#question {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.options {
+    list-style-type: none;
+    padding: 0;
+
+}
+.option {
+    margin: 5px 0;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.kupa {
+
+     color:red;
+}
+
+
+.Eo {
+    color: aqua;
+}
