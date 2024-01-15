@@ -44,7 +44,7 @@
       },
       {
         question: "Tytuł naukowy Pana Jerzego Barglika.",
-        options: ["To ktoś taki wogóle istnieje?", "Ja bym dał odp c)", "A ja nie wiem co bym dał", "Profesor"],
+        options: ["Technik?", "Generał", "A ja nie wiem co bym dał", "Profesor"],
         correctAnswer: "Profesor"
       },
       {
@@ -63,9 +63,9 @@
         correctAnswer: "50/50"
       },
       {
-        question: "Jakie ciśnienie miał Mgr.Dawid Jurczyński przy ocenie pierwszego kolosa naszego roku.",
-        options: ["Serce się zatrzymało, przyczyna:'Zawał spowodowany zaskoczeniem z ilości ludzi podejrzanych o analfabetyzm'", "150/90 jak Usain Bolt w 2009 Berlin bieg na 100 metrów z czasem 9:58", "Takie jak zwykle", "Lepiej nie pytać"],
-        correctAnswer: "Takie jak zwykle"
+        question: "rok wynosi",
+        options: ["342 dni", "24 godziny", "365", "nie wiem"],
+        correctAnswer: "365"
       },
       {
         question: "Rok powstania Politechniki Śląskiej?",
